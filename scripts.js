@@ -1,5 +1,4 @@
 /* Add your JavaScript to this file */
-// scripts.js - Newsletter form behaviour for INFO2180 Project 1
 
 document.addEventListener('DOMContentLoaded', function () {
   const form = document.querySelector('.newsletter form');
@@ -38,3 +37,4 @@ document.addEventListener('DOMContentLoaded', function () {
     }, 10);
   });
 });
+
